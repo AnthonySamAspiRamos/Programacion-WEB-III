@@ -1,5 +1,5 @@
 //                 PRACTIA 1
-// Nombre: Aspi Rasmoa, Anthony Sam
+// Nombre: Aspi Ramos, Anthony Sam
 //
 // JAVA SCRIPT
 //
