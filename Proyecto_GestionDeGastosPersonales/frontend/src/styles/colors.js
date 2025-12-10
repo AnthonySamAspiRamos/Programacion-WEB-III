@@ -1,0 +1,18 @@
+export const colors = {
+  primary: '#EAEAEA',
+  primaryDark: '#2D4059',
+  accent: '#6FB98F',
+  dark: '#021C1E',
+  white: '#FFFFFF',
+  gray50: '#F9FAFB',
+  gray100: '#F3F4F6',
+  gray200: '#E5E7EB',
+  gray300: '#c4c5c7ff',
+  gray600: '#4B5563',
+  gray900: '#111827',
+  blueColor: '#2D4059',
+  red500: '#EF4444',
+  yellow500: '#EAB308',
+  lime500: '#84CC16',
+  green600: '#16A34A',
+};
